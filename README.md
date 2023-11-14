@@ -234,20 +234,20 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Engine Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Engine Tier 1 - 2500$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Engine Tier 2 - 3000$</label>
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Engine Tier 2 - 5000$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="7000$">
-    <label for="Davechoice">Engine Tier 3 - 7000$</label>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Engine Tier 3 - 10000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -256,20 +256,20 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Suspension Tier 1 - 1000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Suspension Tier 2 - 3000$</label>
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Suspension Tier 1 - 2500$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Suspension Tier 3 - 5000$</label>
+    <label for="Davechoice">Suspension Tier 2 - 5000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Suspension Tier 3 - 10000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -278,20 +278,20 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Transmission Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Transmission Tier 1 - 2500$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="4000$">
-    <label for="Davechoice">Transmission Tier 2 - 4000$</label>
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Transmission Tier 2 - 5000$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="7000$">
-    <label for="Davechoice">Transmission Tier 3 - 7000$</label>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Transmission Tier 3 - 10000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -300,8 +300,8 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Brakes Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Brakes Tier 1 - 2500$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -312,16 +312,16 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="7000$">
-    <label for="Davechoice">Brakes Tier 3 - 7000$</label>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Brakes Tier 3 - 10000$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <h3>Turbo</h3>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="12000$">
-    <label for="Davechoice">Turbo - 12,000$</label>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Turbo - 10,000$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -334,14 +334,14 @@ function resetCalculator() {
   <h3> Repairs </h3>
   
   <div>
-    <input type="checkbox" id="ColinChoice" value="1200"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Standard Repair (D-A Class) - 1,200$</label>
+    <input type="checkbox" id="ColinChoice" value="1600"><!--The price is the value, change that and then the name and itll change on the menu-->
+    <label for="ColinChoice">Standard Repair (D-A Class) - 1,600$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="JudysChoice" value="1600">
-    <label for="JudysChoice">S-Class Repair - 1600$    $</label>
+    <input type="checkbox" id="JudysChoice" value="2000">
+    <label for="JudysChoice">S-Class Repair - 2000$    </label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -350,32 +350,33 @@ function resetCalculator() {
   <h3>Misc.</h3>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="300" >
-  <label for="MysteryBox">Single Lockpick - $300</label>
-  <input type="number" value="1" min="1">
-</div>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="1500" >
-  <label for="MysteryBox">Adavanced Lockpick - $1500</label>
-  <input type="number" value="1" min="1">
-</div>
-
-<div>
-  <input type="checkbox" id="MysteryGift" value="350" >
-  <label for="MysteryBox">Basic Repair Kit - $350</label>
+  <input type="checkbox" id="MysteryGift" value="500" >
+  <label for="MysteryBox">Single Lockpick - $500</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
   <input type="checkbox" id="MysteryGift" value="1000" >
-  <label for="MysteryBox">Advanced Repair Kit(Free for Leo) - $1000</label>
+  <label for="MysteryBox">Adavanced Lockpick - $1000</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="400" >
-  <label for="MysteryBox">Cleaning Kit - $400</label>
+  <input type="checkbox" id="MysteryGift" value="500" >
+  <label for="MysteryBox">Basic Repair Kit - $500</label>
+  <input type="number" value="1" min="1">
+</div>
+
+<div>
+  <input type="checkbox" id="MysteryGift" value="1000" >
+  <label for="MysteryBox">Advanced Repair Kit - $1000</label>
+  <input type="number" value="1" min="1">
+</div>
+
+
+<div>
+  <input type="checkbox" id="MysteryGift" value="500" >
+  <label for="MysteryBox">Cleaning Kit - $500</label>
   <input type="number" value="1" min="1">
 </div>
 
@@ -386,8 +387,8 @@ function resetCalculator() {
 </div>
 
 <div>
-  <input type="checkbox" id="FantasticWax" value="2000">
-  <label for="FantasticWax">Fantastic Wax (3-4 days) - $2000</label>
+  <input type="checkbox" id="FantasticWax" value="1000">
+  <label for="FantasticWax">Fantastic Wax (3-4 days) - $1000</label>
   <input type="number" value="1" min="1">
 </div>
 
